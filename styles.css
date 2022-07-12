@@ -1,0 +1,35 @@
+* {
+    background-color: #285238;
+}
+
+.header {
+    background-color: #04E824;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.list {
+    background-color: #138A36;
+    
+}
+
+.list li {
+    background-color: #18FF6D;
+    border: 1px solid black;
+    padding: 2px;
+    margin: 2px;
+
+}
+
+.navbutton {
+    background-color: #18FF6D;
+    border: 1px solid black;
+    padding: 2px;
+    margin: 4px;
+}
+
+#homepage-title {
+    background-color: #04E824;
+    border: 4px solid black;
+    padding: 8px;
+}
